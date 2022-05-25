@@ -2,4 +2,5 @@
 
 The CrossDAO is a DAO framework for multichains.
 
-UNDER CONSTRUCTION!
+Function list for now:
+* a tool to mint your own ERC20 token
